@@ -11,7 +11,7 @@ import os
 import numpy as np
 import matplotlib.pyplot as plt
 
-os.chdir("C:/Users/az02234/Documents/Projet_Developpement")
+os.chdir("C:/Users/az02234/Documents/Projets_Personnels/Projet_Path_Optimization_Influans")
 
 from path_optimization import PathOptimisation
 
