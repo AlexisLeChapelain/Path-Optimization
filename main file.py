@@ -2,7 +2,7 @@
 """
 Created on Thu Feb 22 14:20:01 2018
 
-@author: az02234
+@author: Alexis Le Chapelain
 
 Main file
 
@@ -11,7 +11,7 @@ import os
 import numpy as np
 import matplotlib.pyplot as plt
 
-os.chdir("C:/Users/az02234/Documents/Projets_Personnels/Projet_Path_Optimization_Influans")
+os.chdir("Data/Path")
 
 from path_optimization import PathOptimisation
 
