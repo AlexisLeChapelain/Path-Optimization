@@ -8,7 +8,7 @@ Created on Sat Mar 24 15:10:53 2018
 import pandas as pd
 import pytest
 
-from path_optimization import PathOptimisation
+from src.path_optimization import PathOptimisation
 
  
 class TestAlgo:
